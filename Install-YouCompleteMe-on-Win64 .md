@@ -203,7 +203,7 @@
 [Git Download 2]:https://github.com/git-for-windows/git/releases
 [curl Download]:https://curl.haxx.se/download.html
 [CMake Download]:https://cmake.org/download/
-[vimrc example]:https://github.com/Install-YouCompleteMe-on-Win64/Install-YouCompleteMe-on-Win64/_vimrc
+[vimrc example]:https://github.com/Install-YouCompleteMe-on-Win64/Install-YouCompleteMe-on-Win64/blob/master/_vimrc
 [spf13]:https://github.com/spf13/spf13-vim
 [7-Zip Download]: http://www.7-zip.org/download.html
 [Full Install Guide]:https://github.com/Valloric/YouCompleteMe#full-installation-guide
